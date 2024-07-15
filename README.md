@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Sharan Kumar Mogili 
 🚀 Aspiring Software Engineer/Full Stack Developer | Passionate about AI and Cloud Technologies
 
-I'm a dedicated and innovative software engineer currently pursuing a Master of Science in Information Technology at Arizona State University (GPA: 4.0/4.0). I hold a Bachelor of Technology in Computer Science Engineering from Jawaharlal Nehru Technological University. My technical expertise spans multiple languages and frameworks, with a strong focus on Java, Python, JavaScript, TypeScript, React, Angular, and Spring Boot.
+I'm a dedicated and innovative software engineer with a Master of Science degree in Information Technology at Arizona State University (GPA: 4.0/4.0). I also hold a Bachelor of Technology degree in Computer Science Engineering from Jawaharlal Nehru Technological University. My technical expertise spans multiple languages and frameworks, with a strong focus on Java, Python, JavaScript, TypeScript, React, Angular, and Spring Boot.
 
 ## 🔧 Technologies & Tools:
 
